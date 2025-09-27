@@ -1,1 +1,1 @@
-# EX-2--Mini-project
+# --Mini-project
